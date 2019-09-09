@@ -1,0 +1,21 @@
+Body{
+padding-top: 70px;
+margin: 10px;
+background-color: red;
+}
+
+.linhaCinza{
+background-color: gray;
+}
+.linhaPersonalizada{
+background-color: red;
+padding-top: 10 px;
+padding-bottom: 10 px;
+}
+.bg-color-padding p{
+    padding: 15px;
+}
+#navbar-brand-brawl{
+    height: 10 px;
+    margin-top: -6 px;
+}
